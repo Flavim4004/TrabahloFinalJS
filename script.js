@@ -1,3 +1,5 @@
+
+/*Aqui e a transição do slider no Js*/
 let contador = 1
 document.querySelector("#bola1").checked = true
 
@@ -14,3 +16,4 @@ function proxima() {
     document.querySelector("#bola" + contador).checked = true
 
 }
+/*Aqui e o Fim da transição do slider no Js*/
