@@ -17,3 +17,4 @@ function proxima() {
 
 }
 /*Aqui e o Fim da transição do slider no Js*/
+
