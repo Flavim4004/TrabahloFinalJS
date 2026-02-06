@@ -30,6 +30,7 @@
         width: 200px;
         height: 200px;
         margin-left: 28%;
+
     }
 
     .s1 {
@@ -97,7 +98,8 @@
         color: rgb(255, 225, 0);
         font-family: fantasy;
         font-size: 70px;
-        padding-left: 130px;
+        
+        text-align: center;
     }
 
     .s3 .txtp1 {
@@ -110,6 +112,8 @@
     .s3 .imgp1 {
         width: 100%;
         height: 200px;
+                text-align: center;
+
     }
 
     .s4 h1 {
