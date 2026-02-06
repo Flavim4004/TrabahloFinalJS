@@ -191,7 +191,6 @@
         font-family: fantasy;
         text-align: center;
         border-radius: 20px;
-        width: 70%;
         border: 6px solid  rgb(255, 225, 0);
         font-size: 20px;
     }
@@ -223,6 +222,7 @@
         font-size: 50px;
         margin-top: 10px;
         border: 6px solid  rgb(255, 225, 0);
+        margin-bottom: 20px;
     }
     .p5s2 .check1{
         
@@ -236,9 +236,13 @@
         
         color: rgb(255, 225, 0);
         font-family: fantasy;
-        text-align: left !important;
        
         
+    }
+
+    .p5s2 .container {
+        margin-inline: auto;
+        padding: 4px;
     }
     
 
