@@ -3,6 +3,10 @@
     body {
         background-color: blue;
     }
+
+    .easteregg-container {
+        display: none;
+    }
 }
 
 /* Padrão de Celular*/
@@ -276,5 +280,22 @@
 
     }
     
+    .easteregg-container {
+        position: fixed;
+        inset: 0;
+        height: 100%;
+        width: 100%;
+        z-index: 9999;
+
+        display: none;
+
+        pointer-events: none;
+
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    #easteregg {
+        width: 100%;
+    }
 
 }
