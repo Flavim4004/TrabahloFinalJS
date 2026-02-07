@@ -288,6 +288,8 @@
         z-index: 9999;
 
         display: none;
+        align-items: center;
+        justify-content: center;
 
         pointer-events: none;
 
@@ -296,6 +298,7 @@
 
     #easteregg {
         width: 100%;
+        object-fit: contain;
     }
 
 }
